@@ -1,9 +1,54 @@
-<div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
-<br><br>
-<pre>
-    💼 BSC @ UFMG • Back-end dev • Platform Engineer
-    💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
+<h1 align="center">Hi, I'm Manar 👋</h1>
+<h3 align="center">Statistics Student | Minor in Computer Science | Data & Analytics Enthusiast</h3>
+
+---
+
+## 📊 About Me
+🎓 Undergraduate student majoring in **Statistics** with a minor in **Computer Science**  
+📈 Passionate about **data analysis, statistical modeling, machine learning, and data visualization**  
+💻 Experienced in working with **R, Python, html**, and statistical software  
+📚 Interested in predictive analytics, data-driven decision-making, and research projects  
+
+---
+
+## 🔧 Languages & Tools
+### **📌 Statistical & Data Tools**
+- **R (tidyverse, ggplot2, dplyr, car)**
+- **Python **
+- ** Excel / Power BI / Minitab**
+
+### **💻 Programming**
+- Python  
+- R  
+- Java  
+- HTML
+- CSS
+- Assembly (basic)
+
+### **📁 Other Skills**
+- Data Cleaning & Preprocessing
+- Data Visualization  
+- Statistical Modeling  
+- Regression, Hypothesis Testing  
+- Machine Learning (basic)  
+ 
+---
+
+## 📈 Featured Projects
+🛣 **Traffic Accident Data Analysis**  
+- Conducted statistical tests, model fitting, correlation analysis  
+- Used **R (car package)** for regression, diagnostics & reporting  
+  
+
+---
+
+## 📬 Connect With Me
+📧 **Email:** alsubhi.mr23@gmail.com 
+💼 **Phone number:** +(968)99364233    
+
+---
+
+## ✨ Fun Facts
+- I enjoy exploring data trends and transforming raw data into insights  
+- Love learning new analytical methods & improving my coding skills  
+- Always open to collaborations and student research projects  
