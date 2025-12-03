@@ -14,8 +14,8 @@
 ## 🔧 Languages & Tools
 ### **📌 Statistical & Data Tools**
 - **R (tidyverse, ggplot2, dplyr, car)**
-- **Python **
-- ** Excel / Power BI / Minitab**
+- Python 
+- Excel / Power BI / Minitab
 
 ### **💻 Programming**
 - Python  
